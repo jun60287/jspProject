@@ -1,0 +1,31 @@
+
+	#superMain { margin:0 auto; width: 700; height: 700px; }
+	.board{ display: inline-block; width:30%; padding-left:30px; padding-right: 30px; padding-bottom: 30px;}
+	#board{ display: inline-block; padding-left: 30px; }
+	img { border-radius: 15px; }
+	.boardList { font-family: 'Nanum Pen Script', cursive; font-size: 23px; color:#655f86; 
+		margin:0; margin-bottom: 10px; display: inline-block; height: 15px; background-color: #e8e8fa; border-radius: 6px;
+	}
+
+
+
+	#main{ font-family: 'Nanum Pen Script', cursive; text-align: center; width:100%; 
+		 margin:0 auto;	background-color: #e8e8fa; height:200px; 
+	}
+	#mainSub {  font-size: 50px; display: inline-block; background-color: #f7dfdf; height:35px; padding:0; margin-top:0; margin-bottom: 0;
+		border-radius: 40px; color:#e04a2a;
+	} 
+	#mainSub_b {  font-size: 35px; display: inline-block; padding:0; margin-top:1; margin-bottom: 0; color: #485a74;}
+	#mainText { font-size: 25px; color: #485a74;}
+
+	
+	.arrow { margin:0; padding : 0;}
+	
+	
+	#sitter { font-family: 'Nanum Pen Script', cursive; text-align: center; border : 2px solid #cfcfe1; width:70%;
+		border-radius: 10px; margin:0 auto;	background-color: #f0f0fc;
+	}
+	#sitterSub { font-size: 30px; font-weight: bolder; color: #312838;}
+	#sitterText { font-size: 25px; color:#655f86; }
+	#a:link { text-decoration:none; color:#fb4c4c; }
+	#a:visited { text-decoration:none; color:#fb4c4c;}
